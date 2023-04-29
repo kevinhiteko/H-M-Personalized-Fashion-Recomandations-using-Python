@@ -1,1 +1,1 @@
-# Potential-ML
+# Full project on Kaggle.com/kevinhiteko
